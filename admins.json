@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    },
+    {
+        "id": 2,
+        "name": "LZH",
+        "password_hash": "901e8cd0d421c062a567e362271cd95929fdceef9fd6b834ab7c8a57101b26b5"
+    }
+]

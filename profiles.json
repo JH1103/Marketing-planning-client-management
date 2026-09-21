@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "hhh",
+        "email": "hre@gmail.com",
+        "phone": "0123456788",
+        "password_hash": "a1a9339b989a9170644bb62ddba22ed2b3499fbb88e73ac8490349f46c30993d",
+        "company": "fb",
+        "industry": "mcmc",
+        "notes": ""
+    },
+    {
+        "id": 2,
+        "name": "June",
+        "email": "june@gmail.com",
+        "phone": "0123456789",
+        "password_hash": "628ce9e2ac2d6f58ef4d299e1c85005133952dd3a2de737f7dd0e6fd5cda532f",
+        "company": "",
+        "industry": "",
+        "notes": ""
+    }
+]

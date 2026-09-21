@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "client_id": 1,
+        "date": "2025-10-03",
+        "time": "00:00",
+        "purpose": "plan",
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "client_id": 3,
+        "date": "2026-12-01",
+        "time": "12:00",
+        "purpose": "id",
+        "status": "Cancelled"
+    },
+    {
+        "id": 3,
+        "client_id": 2,
+        "date": "2026-07-16",
+        "time": "09:42",
+        "purpose": "sleep",
+        "status": "Completed"
+    },
+    {
+        "id": 4,
+        "client_id": 1,
+        "date": "2026-07-29",
+        "time": "09:35",
+        "purpose": "meeting",
+        "status": "Completed",
+        "checked_in_at": "2026-07-29T09:35",
+        "completed_at": "2026-08-12T08:38"
+    },
+    {
+        "id": 5,
+        "client_id": 1,
+        "date": "2026-08-12",
+        "time": "08:30",
+        "purpose": "fff",
+        "status": "Checked In",
+        "checked_in_at": "2026-08-12T08:38"
+    },
+    {
+        "id": 6,
+        "client_id": 1,
+        "date": "2026-07-16",
+        "time": "18:00",
+        "purpose": "gm",
+        "status": "Completed"
+    },
+    {
+        "id": 7,
+        "client_id": 1,
+        "date": "2026-07-16",
+        "time": "23:15",
+        "purpose": "wc",
+        "status": "Completed",
+        "checked_in_at": "2026-07-16T23:14"
+    },
+    {
+        "id": 8,
+        "client_id": 1,
+        "date": "2026-07-16",
+        "time": "23:20",
+        "purpose": "pp",
+        "status": "Missed",
+        "checked_in_at": "2026-07-16T23:19",
+        "missed_at": "2026-07-16T23:35",
+        "bar_waived": true,
+        "unbar_reason": "emergency",
+        "unbarred_at": "2026-07-17T21:22",
+        "unbarred_by_admin_id": 1
+    },
+    {
+        "id": 9,
+        "client_id": 2,
+        "date": "2026-07-17",
+        "time": "21:15",
+        "purpose": "jj",
+        "status": "Completed",
+        "checked_in_at": "2026-07-17T21:16"
+    },
+    {
+        "id": 10,
+        "client_id": 1,
+        "date": "2026-07-17",
+        "time": "21:25",
+        "purpose": "rr",
+        "status": "Completed",
+        "checked_in_at": "2026-07-17T21:25"
+    },
+    {
+        "id": 11,
+        "client_id": 1,
+        "date": "2026-08-12",
+        "time": "09:20",
+        "purpose": "test",
+        "status": "Checked In",
+        "checked_in_at": "2026-08-12T09:21",
+        "checked_in_by_admin_id": 2
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2026-08-12T09:21",
+        "admin_id": 2,
+        "action": "Checked In",
+        "appointment_id": 11,
+        "client_id": 1,
+        "reason": "Client arrived and was admitted."
+    }
+]
